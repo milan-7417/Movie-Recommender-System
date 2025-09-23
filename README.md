@@ -28,7 +28,7 @@ Follow these steps to set up and run the project on your own machine.
 2.  *Download the Similarity Model File:*
     The similarity.pkl file is too large to be stored on GitHub. You need to download it from the link below and place it in the main Movie-Recommender-System folder.
 
-    *➡ [Download similarity.pkl here](YOUR_DOWNLOAD_LINK_HERE)*
+    *➡ [Download similarity.pkl here]("C:\Users\mrai4\movies recommender system\similarity.pkl") *
 
 3.  *Create and activate a virtual environment:*
     * *Windows (PowerShell):*
